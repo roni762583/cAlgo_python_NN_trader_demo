@@ -6,4 +6,4 @@ A simple feed forward NN was trained on features that are based on prices, to pr
 The trained network saved as xml in file Trained_NNv4.xml
 The cTrader / cAlgo code NN_call_v1.cs, calls the python script ReadAndUseNNv4.py with the latest price features, which in turn returns a prediction on if and what direction to trade. The trade is executed on the cTrader platform.
 
-for write up see www.PeoplesFinTech/blog/Neural_Network_Trade_Recommender_Proof_of_Concept
+for write up see http://www.peoplesfintech.com/blog/2019/05/02/using-neural-networks-in-trade-recommendation-systems-a-proof-of-concept-study-%EF%BB%BF/
